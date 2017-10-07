@@ -14,15 +14,15 @@ A future platform that contains switches and sensors for automatic/manual mode, 
 
 In your configuration.yaml:
 
-switch:
-  - platform: sip
-    url: http://sip.example.com
-    password: !secret sip_password
+    switch:
+      - platform: sip
+        url: http://sip.example.com
+        password: !secret sip_password
 
-switch:
-  - platform: sip
-    url: http://sip.example.com
-    password: !secret sip_password
+    switch:
+      - platform: sip
+        url: http://sip.example.com
+        password: !secret sip_password
 
 ## Installation
 
