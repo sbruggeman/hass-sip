@@ -10,6 +10,8 @@ SWITCHES ONLY WORK IF MANUAL MODE IS ENABLED IN SIP
 
 A future platform that contains switches and sensors for automatic/manual mode, rain delay, run program, etc.
 
+SIP versions prior to May 2017 will not work as the API was modified to include station names.
+
 ## Code Example
 
 In your configuration.yaml:
